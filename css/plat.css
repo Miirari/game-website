@@ -1,0 +1,2 @@
+body { background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.79) ), url('../assets/shaders-bg.png'); background-size: cover; }
+#gamePic { width: 100%; height: auto; margin-top: 10%; -webkit-box-shadow: 0 0 10px #252525; box-shadow: 0 0 10px #313131; }
